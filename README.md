@@ -1,1 +1,1 @@
-This is the README for alx-zero_day directory
+This is the updated README for alx-zero_day directory
